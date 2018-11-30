@@ -1,0 +1,19 @@
+Run options: --seed 45356
+
+# Running:
+
+....
+
+Finished in 0.001215s, 3292.1809 runs/s, 3292.1809 assertions/s.
+
+# s : テスト実行にかかった時間
+# runs/s : 1秒間に実行できるであろうテストメソッドの件数
+# assertions/s : 1秒間に実行できるであろう、検証メソッドの件数
+
+4 runs, 4 assertions, 0 failures, 0 errors, 0 skips
+
+# runs : 実行したテストメソッド（test_XXX）の件数
+# assertions : 実行した検証メソッドの件数
+# failures : 検証に失敗したメソッドの件数
+# errors : 検証中にエラーが発生したテストメソッドの件数
+# skips : skipメソッドにより実行をスキップされたメソッドの件数
